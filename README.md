@@ -15,7 +15,7 @@ La vacunación es una herramienta clave para erradicar la propagación de corona
 - **¿Qué país tiene una mejor estrategia de vacunación?**
 - **¿Cuál es la vacuna más utilizada?**
 
-<br /> Para responder estas cuestiones se realizó el análisis de una base de datos en el que se buscaron respuestas a preguntas más específicas. Las preguntas fueron las siguientes:
+<br /> Para responder estas cuestiones se realizó el análisis de una base de datos de la plataforma de Kaggle, la cual contiene información del progreso de vacunación mundial de COVID-19 desde el 13 de diciembre de 2020 hasta el 6 de marzo de 2021. En la base de datos se buscaron las respuestas de las siguientes preguntas:
 - ¿Cuál es el porcentaje total de personas vacunadas en el mundo?
 - Comparación entre el porcentaje total de las personas con el esquema completo de vacunación vs el porcentaje de las personas que sólo llevan una dosis
 - Top 10 de países que han vacunado mayor porcentaje de su población
@@ -34,4 +34,3 @@ La vacunación es una herramienta clave para erradicar la propagación de corona
 4. Organización Mundial de la Salud. (31 de Diciembre de 2020). Obtenido de https://www.who.int/es/news-room/q-a-detail/herd-immunity-lockdowns-and-covid-19
 5. Que es COVID-19. (s.f.). Obtenido de SaludCoahuila: https://www.saludcoahuila.gob.mx/COVID19/que_es.php
 6. World Health Organization. (s.f.). Coronavirus. Obtenido de https://www.who.int/health-topics/coronavirus#tab=tab_1
-7. Los datos para el proyecto se obtuvieron de la plataforma kaggle.com : https://www.kaggle.com/gpreda/covid-world-vaccination-progress
